@@ -1,0 +1,32 @@
+{
+    "isLoggedIn": false,
+    "credentials": {
+        "username": "",
+        "password": ""
+    },
+    "userData": {
+        "macros": {
+            "protein": {
+                "current": 24.5,
+                "target": 50
+            },
+            "carbs": {
+                "current": 40,
+                "target": 75
+            },
+            "fat": {
+                "current": 10,
+                "target": 14
+            }
+        },
+        "dist": {
+            "steps": 2000,
+            "stepsGoal": 7000,
+            "distance": "2.3km"
+        },
+        "water": {
+            "current": 1,
+            "goal": 3
+        }
+    }
+}
